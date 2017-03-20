@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class TestEsame {
 
 	public static void main(String[] args) {
-		Esame tdp= new Esame("03FYZ", "Tecniche di Programmazione", "Fulvio Corno");		
+		Esame tdp= new Esame("03FYZ", "Tecniche di Programmazione", "Corno Fulvio");		
 		System.out.println(tdp);
 		
 		Esame ami =new Esame("01QZP", "Ambent intelligence", "Corno FUlvio");
